@@ -1,6 +1,6 @@
 # Desafio Sistema de Controle de Estacionamento
 
-Um sistema web moderno e responsivo desenvolvido para o gerenciamento de pátio de estacionamento, construído com **TypeScript**, **HTML5** e **CSS**. O projeto foca em boas práticas de arquitetura front-end, tipagem estática rigorosa, persistência de dados local e uma interface limpa e intuitiva.
+Um sistema web moderno e responsivo desenvolvido para o gerenciamento de pátio de estacionamento, construído com **TypeScript**, **HTML5** e **CSS**. O projeto foca em boas práticas de arquitetura front-end, tipagem estática rigorosa, persistência de dados local e uma interface limpa e intuitiva. Repo está abaixo, clone e melore o sistema!!
 
 ---
 
@@ -49,14 +49,27 @@ No **VS Code**, instale a extensão Live Server (caso ainda não tenha).
 
 Clique com o botão direito em cima do arquivo index.html na barra lateral de arquivos do projeto.
 
-Selecione "Open with Live Server".
+Selecione **Open with Live Server**.
 
 O navegador vai abrir sozinho já atualizando em tempo real sempre que você salvar alguma alteração.
 
-🧪 Exemplos de Uso (Massa de Testes)Para testar o fluxo de entrada e saída no sistema, utilize os dados abaixo na interface da aplicação:VeículoPlacaPadrãoHonda CivicABC-1234Cinza (Antigo)Toyota CorollaBRA4A21MercosulVolkswagen FuscaXYZ-9876Cinza (Antigo)
+🧪 Exemplos de Uso (Massa de Testes) Para testar o fluxo de entrada e saída no sistema, utilize os dados abaixo na interface da aplicação:Veículo Placa Padrão Honda CivicABC-1234Cinza (Antigo)Toyota Corolla BRA4A21 Mercosul Volkswagen FuscaXYZ-9876 Cinza (Antigo)
 
 Basta digitar qualquer um deles na tela, clicar em Registrar e testar o sistema de pátio!
+Ao lado fica um "X" que é quando o veículo sai do estacionamento e mostra o tempo de permamencia no pátio!!
 
+---
 1. **Clone o repositório:**
    ```bash
    git clone [https://github.com/HigorCamposGit/Desafio-Sistema-de-Controle-de-Estacionamento.git](https://github.com/HigorCamposGit/Desafio-Sistema-de-Controle-de-Estacionamento.git)
+
+---
+## 🤝 Conecte-se Comigo
+
+<p align="center">
+  <img src="https://github.com/HigorCamposGit.png" width="100px" style="border-radius: 50%;" alt="Foto de Higor de Campos" /><br />
+  <b>Projeto atualizado por:</b> <a href="https://github.com/HigorCamposGit">Higor de Campos</a>
+</p>
+
+---
+
