@@ -1,0 +1,15 @@
+# Dependências e pacotes baixados pelo Node.js
+node_modules/
+
+# Arquivos gerados pelo compilador do TypeScript
+# (Como o main.js é gerado automaticamente a partir do main.ts, não precisamos versioná-lo)
+main.js
+main.js.map
+
+# Arquivos de configuração do sistema operacional e do VS Code
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Logs de execução
+*.log

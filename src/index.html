@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sistema de Estacionamento</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <main>
+      <h1>Controle de Estacionamento</h1>
+      
+      <!-- Seção de Cadastro -->
+      <section class="form-container">
+        <label class="sr-only" for="name">Nome do veículo</label>
+        <input
+          type="text"
+          id="name"
+          placeholder="Nome do veículo"
+          autocomplete="off"
+        />
+
+        <label class="sr-only" for="licence">Placa do veículo</label>
+        <input
+          type="text"
+          id="licence"
+          placeholder="Placa do veículo"
+          autocomplete="off"
+        />
+
+        <button id="send" class="success">Registrar</button>
+      </section>
+
+      <!-- Tabela de Veículos Estacionados -->
+      <section>
+        <table>
+          <thead>
+            <tr>
+              <th>Veículo</th>
+              <th>Placa</th>
+              <th>Entrada</th>
+              <th>Saída</th>
+            </tr>
+          </thead>
+          <tbody id="garage"></tbody>
+        </table>
+      </section>
+    </main>
+
+    <script src="main.js"></script>
+  </body>
+</html>
